@@ -1,4 +1,11 @@
-*
+*.toml
 !README.md
 !part*/src/*.py
 !.gitignore
+part*/test/
+part*/tmc/
+*.csv
+*.txt
+.vscode
+.tmc*
+
